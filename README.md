@@ -1,4 +1,4 @@
-#Ethan McGregors cal poly github 
+# Ethan McGregors cal poly github 
 Overview: 
 
 1. [retail inteligence](https://linkmehere.com)
